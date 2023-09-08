@@ -21,5 +21,12 @@ public class AulaDocumentandoCodigo {
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
+/*
+ * Para realizar um Tipo de Comentário ONE LINE é usado // este comentário é usado dentro do método.
+ * Para realizar um Tipo de Comentário MULT LINE é usado BARRA e ASTERÍSTICO este comentário é usado dentro do método.
+ * Para realizar um Tipo de Comentário DOCUMENTO é usado BARRA e 2 ASTERÍSTICO este comentário é usado fora do método antes do PACKAGE, dos IMPORT, e da CLASS será realizado na primeira linha da estrutura do código. 
+ */
+    //   Tipos de comentários
+
     
 }
